@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Calculadora {
+    /* Saludos Olimpia */
     public static void main(String[] args)
     {
         System.out.println("indica el primer y segundo numero de la operación:");
